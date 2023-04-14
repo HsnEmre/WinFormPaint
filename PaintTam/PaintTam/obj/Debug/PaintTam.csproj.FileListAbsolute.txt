@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\paint\PaintTam\PaintTam\bin\Debug\PaintTam.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\paint\PaintTam\PaintTam\bin\Debug\PaintTam.exe
+C:\Users\Hasan\OneDrive\Masaüstü\paint\PaintTam\PaintTam\bin\Debug\PaintTam.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\paint\PaintTam\PaintTam\obj\Debug\PaintTam.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\paint\PaintTam\PaintTam\obj\Debug\PaintTam.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\paint\PaintTam\PaintTam\obj\Debug\PaintTam.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\paint\PaintTam\PaintTam\obj\Debug\PaintTam.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\paint\PaintTam\PaintTam\obj\Debug\PaintTam.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\paint\PaintTam\PaintTam\obj\Debug\PaintTam.exe
+C:\Users\Hasan\OneDrive\Masaüstü\paint\PaintTam\PaintTam\obj\Debug\PaintTam.pdb
